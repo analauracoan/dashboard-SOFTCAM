@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Raleway:wght@400;600&display=swap');
+
+.cabecalho {
+    padding: 1% 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--preto-principal);
+    background-color: white;
+    box-shadow: 0px 2px 4px 0px #e3e3e3;
+}
+
+.cabecalho h1 {
+    font-family: 'Raleway';
+    font-weight: 600;
+}
